@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "username": "Monet",
+      "email": "monni@mail.com",
+      "role": "artist",
+      "books": [],
+      "id": "64341b5504a6ec8ff5886e39"
+    },
+    {
+      "username": "VanGogh",
+      "email": "vankku@mail.com",
+      "role": "artist",
+      "books": [],
+      "id": "64341cb204a6ec8ff5886e69"
+    }
+  ]
+}
