@@ -4,12 +4,9 @@
 
 Kalle Lehikoinen
 
-[Linkki web-sovellukseen](https://ccc-ivory.vercel.app/)
+[Linkki web-sovellukseen](https://ccc-gilt.vercel.app/)
 
-Tunnukset kirjautumiseen:
-
-- Ylläpitäjä: admin - 1234
-- Artisti: Monet - 1234
+[Frontend-lähdekoodi](https://github.com/klehik/artbooks_client)
 
 ## Taustaa
 
@@ -287,13 +284,3 @@ Esimerkki luodusta Book-objektista
 - Käyttäjienhallinta
 
 - Testit
-
-## Tietoturva
-
-- Onko mahdollista ladata jotain haitallista kuvien sijasta?
-
-## Frontend
-
-Frontendissä on tässä projektissa käytetty Reactia. Edistyneempään tilanhallintaan tuli kokeiltua sekä Context APIa että Redux toolkittiä. Komponenttikirjastoina on käytetty React Bootstrapia ja Material UI:ta. Frontend on julkaistu Vercelillä ja backend Railwaylla.
-
-Sovelluksessa on toiminnallisuus kirjautumiseen ja rekisteröitymiseen. Kirjoja voidaan hakea teoksen nimen ja artisitin perusteella. Admin-käyttäjälle näytetään kaikki, myös julkaisemattomat kirjat ja mahdollisuus muokata ja julkaista kirjoja. Artisteilla ja adminilla on käytössä yksinkertainen dashboard josta teoksia voi hallinnoida.
